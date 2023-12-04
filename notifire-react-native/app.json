@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "Notifire",
+    "slug": "notifire-react-native",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/email.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/email.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/email.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.notifire",
+      "versionCode": 49,
+      "googleServicesFile": "./google-services.json",
+      "permissions": [
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.CAMERA",
+        "android.permission.CAMERA_ROLL",
+        "android.permission.RECORD_AUDIO"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ef459323-9501-459d-b025-0ef811486947"
+      }
+    }
+  }
+}

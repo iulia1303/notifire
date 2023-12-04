@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "195964618867",
+    "project_id": "notifire-react-native",
+    "storage_bucket": "notifire-react-native.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195964618867:android:fe6f9d6b6485c0e6918206",
+        "android_client_info": {
+          "package_name": "com.notifire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYKBZ3VUrsPMGZnuKai6b8gDIg6-oPEm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
